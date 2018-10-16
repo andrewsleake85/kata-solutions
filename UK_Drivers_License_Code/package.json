@@ -1,0 +1,8 @@
+{
+    "name": "UK_Drivers_License_Code",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "KING",
+    "contributors": [],
+    "dependencies": {}
+}
