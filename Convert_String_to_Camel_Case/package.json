@@ -1,0 +1,8 @@
+{
+    "name": "Convert_String_to_Camel_Casr",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "KING",
+    "contributors": [],
+    "dependencies": {}
+}
